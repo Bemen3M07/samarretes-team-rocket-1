@@ -1,4 +1,4 @@
-name: empty
+name: t_shirt_calculator
 description: "A new Flutter project."
 publish_to: 'none'
 version: 0.1.0
@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_gherkin: ^2.0.0
+  test: ^1.25.15
 
 dev_dependencies:
   flutter_test:
